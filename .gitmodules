@@ -4,3 +4,81 @@
 [submodule "LATEST/ref/EcuM"]
 	path = LATEST/ref/EcuM
 	url = git@github.com:NAAGRAAJ-HM/EcuM.git
+[submodule "LATEST/ref/BswM"]
+	path = LATEST/ref/BswM
+	url = git@github.com:NAAGRAAJ-HM/BswM.git
+[submodule "LATEST/ref/ComM"]
+	path = LATEST/ref/ComM
+	url = git@github.com:NAAGRAAJ-HM/ComM.git
+[submodule "LATEST/ref/WdgM"]
+	path = LATEST/ref/WdgM
+	url = git@github.com:NAAGRAAJ-HM/WdgM.git
+[submodule "LATEST/ref/StbM"]
+	path = LATEST/ref/StbM
+	url = git@github.com:NAAGRAAJ-HM/StbM.git
+[submodule "LATEST/ref/Det"]
+	path = LATEST/ref/Det
+	url = git@github.com:NAAGRAAJ-HM/Det.git
+[submodule "LATEST/ref/FiM"]
+	path = LATEST/ref/FiM
+	url = git@github.com:NAAGRAAJ-HM/FiM.git
+[submodule "LATEST/ref/Dem"]
+	path = LATEST/ref/Dem
+	url = git@github.com:NAAGRAAJ-HM/Dem.git
+[submodule "LATEST/ref/WdgIf"]
+	path = LATEST/ref/WdgIf
+	url = git@github.com:NAAGRAAJ-HM/WdgIf.git
+[submodule "LATEST/ref/Gpt"]
+	path = LATEST/ref/Gpt
+	url = git@github.com:NAAGRAAJ-HM/Gpt.git
+[submodule "LATEST/ref/Wdg"]
+	path = LATEST/ref/Wdg
+	url = git@github.com:NAAGRAAJ-HM/Wdg.git
+[submodule "LATEST/ref/Mcu"]
+	path = LATEST/ref/Mcu
+	url = git@github.com:NAAGRAAJ-HM/Mcu.git
+[submodule "LATEST/ref/NvM"]
+	path = LATEST/ref/NvM
+	url = git@github.com:NAAGRAAJ-HM/NvM.git
+[submodule "LATEST/ref/MemIf"]
+	path = LATEST/ref/MemIf
+	url = git@github.com:NAAGRAAJ-HM/MemIf.git
+[submodule "LATEST/ref/Ea"]
+	path = LATEST/ref/Ea
+	url = git@github.com:NAAGRAAJ-HM/Ea.git
+[submodule "LATEST/ref/Fee"]
+	path = LATEST/ref/Fee
+	url = git@github.com:NAAGRAAJ-HM/Fee.git
+[submodule "LATEST/ref/Fls"]
+	path = LATEST/ref/Fls
+	url = git@github.com:NAAGRAAJ-HM/Fls.git
+[submodule "LATEST/ref/Eep"]
+	path = LATEST/ref/Eep
+	url = git@github.com:NAAGRAAJ-HM/Eep.git
+[submodule "LATEST/ref/Com"]
+	path = LATEST/ref/Com
+	url = git@github.com:NAAGRAAJ-HM/Com.git
+[submodule "LATEST/ref/PduR"]
+	path = LATEST/ref/PduR
+	url = git@github.com:NAAGRAAJ-HM/PduR.git
+[submodule "LATEST/ref/Nm"]
+	path = LATEST/ref/Nm
+	url = git@github.com:NAAGRAAJ-HM/Nm.git
+[submodule "LATEST/ref/Port"]
+	path = LATEST/ref/Port
+	url = git@github.com:NAAGRAAJ-HM/Port.git
+[submodule "LATEST/ref/Dio"]
+	path = LATEST/ref/Dio
+	url = git@github.com:NAAGRAAJ-HM/Dio.git
+[submodule "LATEST/ref/Adc"]
+	path = LATEST/ref/Adc
+	url = git@github.com:NAAGRAAJ-HM/Adc.git
+[submodule "LATEST/ref/Pwm"]
+	path = LATEST/ref/Pwm
+	url = git@github.com:NAAGRAAJ-HM/Pwm.git
+[submodule "LATEST/ref/Icu"]
+	path = LATEST/ref/Icu
+	url = git@github.com:NAAGRAAJ-HM/Icu.git
+[submodule "LATEST/ref/Ocu"]
+	path = LATEST/ref/Ocu
+	url = git@github.com:NAAGRAAJ-HM/Ocu.git
