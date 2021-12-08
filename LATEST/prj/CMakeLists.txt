@@ -22,18 +22,9 @@ add_subdirectory(
    ../ref/EcuM/LATEST/prj submodules/EcuM
 )
 
-add_subdirectory(
-   ../ref/init/LATEST/prj submodules/init
-)
-
-add_executable(
-   AUTOSAR.out
-)
-
-target_link_libraries(
-   AUTOSAR.out PUBLIC
-   init.lib
-)
+#add_subdirectory(
+#   ../ref/init/LATEST/prj submodules/init
+#)
 
 option(
    _ReSIM "Build simulation software for ECU"
@@ -41,5 +32,20 @@ option(
 
 configure_file(
    ../cfg/AUTOSAR_Cfg.h.in ../gen/AUTOSAR_Cfg.h
+)
+
+add_executable(
+   AUTOSAR.out
+   ../ref/init/LATEST/src/init.cpp
+)
+
+target_link_libraries(
+   AUTOSAR.out PUBLIC
+   EcuM.lib
+)
+
+target_include_directories(
+   AUTOSAR.out PUBLIC
+   ../gen
 )
 
