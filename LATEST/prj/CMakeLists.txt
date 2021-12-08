@@ -13,8 +13,10 @@ add_executable(
 
 target_include_directories(
    AUTOSAR.out PUBLIC
-   "${PROJECT_SOURCE_DIR}/../inc/"
+   "${PROJECT_SOURCE_DIR}/../gen/"
 )
 
-configure_file(../inc/AUTOSAR_Cfg.h.in ../inc/AUTOSAR_Cfg.h)
+configure_file(../cfg/AUTOSAR_Cfg.h.in ../gen/AUTOSAR_Cfg.h)
+
+add_subdirectory(../ref/init/LATEST/prj)
 
