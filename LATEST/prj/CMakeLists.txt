@@ -18,10 +18,6 @@ add_definitions(
    -Wuninitialized
 )
 
-add_subdirectory(
-   ../ref/EcuM/LATEST/prj submodules/EcuM
-)
-
 #add_subdirectory(
 #   ../ref/init/LATEST/prj submodules/init
 #)
@@ -37,12 +33,13 @@ configure_file(
 add_executable(
    AUTOSAR.out
    ../ref/init/LATEST/src/init.cpp
+   ../ref/EcuM/LATEST/src/EcuM.cpp
 )
 
-target_link_libraries(
-   AUTOSAR.out PUBLIC
-   EcuM.lib
-)
+#target_link_libraries(
+#   AUTOSAR.out PUBLIC
+#   EcuM.lib
+#)
 
 target_include_directories(
    AUTOSAR.out PUBLIC
