@@ -16,3 +16,6 @@
 [submodule "LATEST/ref/SchM"]
 	path = LATEST/ref/SchM
 	url = git@github.com:NAAGRAAJ-HM/SchM.git
+[submodule "LATEST/ref/Swc_EcuM"]
+	path = LATEST/ref/Swc_EcuM
+	url = git@github.com:NAAGRAAJ-HM/Swc_EcuM.git
