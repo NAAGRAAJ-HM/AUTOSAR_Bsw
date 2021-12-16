@@ -13,3 +13,6 @@
 [submodule "LATEST/ref/Os"]
 	path = LATEST/ref/Os
 	url = git@github.com:NAAGRAAJ-HM/Os.git
+[submodule "LATEST/ref/SchM"]
+	path = LATEST/ref/SchM
+	url = git@github.com:NAAGRAAJ-HM/SchM.git
