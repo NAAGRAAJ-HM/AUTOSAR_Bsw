@@ -1,3 +1,6 @@
 [submodule "LATEST/ref/EcuAb"]
 	path = LATEST/ref/EcuAb
 	url = git@github.com:NAAGRAAJ-HM/EcuAb.git
+[submodule "LATEST/ref/BswM"]
+	path = LATEST/ref/BswM
+	url = git@github.com:NAAGRAAJ-HM/BswM.git
