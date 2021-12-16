@@ -10,3 +10,6 @@
 [submodule "LATEST/ref/init"]
 	path = LATEST/ref/init
 	url = git@github.com:NAAGRAAJ-HM/init.git
+[submodule "LATEST/ref/Os"]
+	path = LATEST/ref/Os
+	url = git@github.com:NAAGRAAJ-HM/Os.git
