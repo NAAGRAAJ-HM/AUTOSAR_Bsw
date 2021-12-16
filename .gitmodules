@@ -7,3 +7,6 @@
 [submodule "LATEST/ref/EcuM"]
 	path = LATEST/ref/EcuM
 	url = git@github.com:NAAGRAAJ-HM/EcuM.git
+[submodule "LATEST/ref/init"]
+	path = LATEST/ref/init
+	url = git@github.com:NAAGRAAJ-HM/init.git
