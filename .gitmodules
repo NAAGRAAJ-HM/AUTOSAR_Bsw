@@ -13,3 +13,9 @@
 [submodule "LATEST/ref/BswM"]
 	path = LATEST/ref/BswM
 	url = git@github.com:NAAGRAAJ-HM/BswM.git
+[submodule "LATEST/ref/Swc_EcuM"]
+	path = LATEST/ref/Swc_EcuM
+	url = git@github.com:NAAGRAAJ-HM/Swc_EcuM.git
+[submodule "LATEST/ref/Swc_Os"]
+	path = LATEST/ref/Swc_Os
+	url = git@github.com:NAAGRAAJ-HM/Swc_Os.git
