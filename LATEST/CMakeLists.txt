@@ -1,12 +1,16 @@
 add_library(
    AUTOSAR_Bsw
    ./ref/BswM/LATEST/src/BswM.cpp
+   ./ref/Dem/LATEST/src/Dem.cpp
+   ./ref/Det/LATEST/src/Det.cpp
    ./ref/EcuM/LATEST/src/EcuM.cpp
    ./ref/init/LATEST/src/init.cpp
+   ./ref/NvM/LATEST/src/NvM.cpp
    ./ref/Os/LATEST/src/Os.cpp
    ./ref/SchM/LATEST/src/SchM.cpp
    ./ref/Swc_EcuM/LATEST/src/Swc_EcuM.cpp
    ./ref/Swc_Os/LATEST/src/Swc_Os.cpp
+   ./ref/WdgM/LATEST/src/WdgM.cpp
 )
 
 include_directories(
