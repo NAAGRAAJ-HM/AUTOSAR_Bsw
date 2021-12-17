@@ -15,6 +15,7 @@ include_directories(
    ./ref/Det/LATEST/inc
    ./ref/EcuM/LATEST/inc
    ./ref/init/LATEST/inc
+   ./ref/NvM/LATEST/inc
    ./ref/Os/LATEST/inc
    ./ref/SchM/LATEST/inc
    ./ref/Swc_EcuM/LATEST/inc
