@@ -20,5 +20,6 @@ include_directories(
    ./ref/SchM/LATEST/inc
    ./ref/Swc_EcuM/LATEST/inc
    ./ref/Swc_Os/LATEST/inc
+   ./ref/WdgM/LATEST/inc
 )
 

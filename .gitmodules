@@ -31,3 +31,6 @@
 [submodule "LATEST/ref/NvM"]
 	path = LATEST/ref/NvM
 	url = git@github.com:NAAGRAAJ-HM/NvM.git
+[submodule "LATEST/ref/WdgM"]
+	path = LATEST/ref/WdgM
+	url = git@github.com:NAAGRAAJ-HM/WdgM.git
