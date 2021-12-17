@@ -25,3 +25,6 @@
 [submodule "LATEST/ref/Det"]
 	path = LATEST/ref/Det
 	url = git@github.com:NAAGRAAJ-HM/Det.git
+[submodule "LATEST/ref/Dem"]
+	path = LATEST/ref/Dem
+	url = git@github.com:NAAGRAAJ-HM/Dem.git

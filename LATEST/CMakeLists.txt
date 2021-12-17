@@ -11,6 +11,7 @@ add_library(
 
 include_directories(
    ./ref/BswM/LATEST/inc
+   ./ref/Dem/LATEST/inc
    ./ref/Det/LATEST/inc
    ./ref/EcuM/LATEST/inc
    ./ref/init/LATEST/inc
