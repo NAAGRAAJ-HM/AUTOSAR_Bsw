@@ -1,4 +1,0 @@
-// Configured and auto generated version numbers
-#define AUTOSAR_VERSION_MAJOR @AUTOSAR_VERSION_MAJOR@
-#define AUTOSAR_VERSION_MINOR @AUTOSAR_VERSION_MINOR@
-
