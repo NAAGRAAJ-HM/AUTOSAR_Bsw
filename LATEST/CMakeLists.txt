@@ -4,10 +4,10 @@ add_library(
    ./Dem/LATEST/Dem.cpp
    ./Det/LATEST/Det.cpp
    ./EcuM/LATEST/EcuM.cpp
-   ./init/LATEST/init.cpp
    ./NvM/LATEST/NvM.cpp
    ./Os/LATEST/Os.cpp
    ./SchM/LATEST/SchM.cpp
+   ./StartUp/LATEST/StartUp.cpp
    ./Swc_EcuM/LATEST/Swc_EcuM.cpp
    ./Swc_Os/LATEST/Swc_Os.cpp
    ./WdgM/LATEST/WdgM.cpp
@@ -18,10 +18,10 @@ include_directories(
    ./Dem/LATEST
    ./Det/LATEST
    ./EcuM/LATEST
-   ./init/LATEST
    ./NvM/LATEST
    ./Os/LATEST
    ./SchM/LATEST
+   ./StartUp/LATEST
    ./Swc_EcuM/LATEST
    ./Swc_Os/LATEST
    ./WdgM/LATEST
