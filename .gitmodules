@@ -31,3 +31,6 @@
 [submodule "LATEST/WdgM"]
 	path = LATEST/WdgM
 	url = git@github.com:NAAGRAAJ-HM/WdgM.git
+[submodule "LATEST/StartUp"]
+	path = LATEST/StartUp
+	url = git@github.com:NAAGRAAJ-HM/StartUp.git
