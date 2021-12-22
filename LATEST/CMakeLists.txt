@@ -1,29 +1,29 @@
 add_library(
    AUTOSAR_Bsw
-   ./ref/BswM/LATEST/src/BswM.cpp
-   ./ref/Dem/LATEST/src/Dem.cpp
-   ./ref/Det/LATEST/src/Det.cpp
-   ./ref/EcuM/LATEST/src/EcuM.cpp
-   ./ref/init/LATEST/src/init.cpp
-   ./ref/NvM/LATEST/src/NvM.cpp
-   ./ref/Os/LATEST/src/Os.cpp
-   ./ref/SchM/LATEST/src/SchM.cpp
-   ./ref/Swc_EcuM/LATEST/src/Swc_EcuM.cpp
-   ./ref/Swc_Os/LATEST/src/Swc_Os.cpp
-   ./ref/WdgM/LATEST/src/WdgM.cpp
+   ./BswM/LATEST/BswM.cpp
+   ./Dem/LATEST/Dem.cpp
+   ./Det/LATEST/Det.cpp
+   ./EcuM/LATEST/EcuM.cpp
+   ./init/LATEST/init.cpp
+   ./NvM/LATEST/NvM.cpp
+   ./Os/LATEST/Os.cpp
+   ./SchM/LATEST/SchM.cpp
+   ./Swc_EcuM/LATEST/Swc_EcuM.cpp
+   ./Swc_Os/LATEST/Swc_Os.cpp
+   ./WdgM/LATEST/WdgM.cpp
 )
 
 include_directories(
-   ./ref/BswM/LATEST/inc
-   ./ref/Dem/LATEST/inc
-   ./ref/Det/LATEST/inc
-   ./ref/EcuM/LATEST/inc
-   ./ref/init/LATEST/inc
-   ./ref/NvM/LATEST/inc
-   ./ref/Os/LATEST/inc
-   ./ref/SchM/LATEST/inc
-   ./ref/Swc_EcuM/LATEST/inc
-   ./ref/Swc_Os/LATEST/inc
-   ./ref/WdgM/LATEST/inc
+   ./BswM/LATEST
+   ./Dem/LATEST
+   ./Det/LATEST
+   ./EcuM/LATEST
+   ./init/LATEST
+   ./NvM/LATEST
+   ./Os/LATEST
+   ./SchM/LATEST
+   ./Swc_EcuM/LATEST
+   ./Swc_Os/LATEST
+   ./WdgM/LATEST
 )
 
