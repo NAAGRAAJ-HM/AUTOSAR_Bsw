@@ -25,5 +25,6 @@ include_directories(
    ./Swc_EcuM/LATEST
    ./Swc_Os/LATEST
    ./WdgM/LATEST
+   ./EcuAb/LATEST/MemIf/LATEST
 )
 
