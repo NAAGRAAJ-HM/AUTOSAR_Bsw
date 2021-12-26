@@ -27,5 +27,7 @@ include_directories(
    ./WdgM/LATEST
    ./EcuAb/LATEST/MemIf/LATEST
    ./EcuAb/LATEST/McAL/LATEST/Adc/LATEST
+   ./EcuAb/LATEST/McAL/LATEST/Gpt/LATEST
+   ./EcuAb/LATEST/McAL/LATEST/Wdg/LATEST
 )
 
