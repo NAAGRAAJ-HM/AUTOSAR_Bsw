@@ -34,3 +34,36 @@
 [submodule "LATEST/StartUp"]
 	path = LATEST/StartUp
 	url = git@github.com:NAAGRAAJ-HM/StartUp.git
+[submodule "LATEST/Csm"]
+	path = LATEST/Csm
+	url = git@github.com:NAAGRAAJ-HM/Csm.git
+[submodule "LATEST/SokFm"]
+	path = LATEST/SokFm
+	url = git@github.com:NAAGRAAJ-HM/SokFm.git
+[submodule "LATEST/Vkms"]
+	path = LATEST/Vkms
+	url = git@github.com:NAAGRAAJ-HM/Vkms.git
+[submodule "LATEST/FiM"]
+	path = LATEST/FiM
+	url = git@github.com:NAAGRAAJ-HM/FiM.git
+[submodule "LATEST/StbM"]
+	path = LATEST/StbM
+	url = git@github.com:NAAGRAAJ-HM/StbM.git
+[submodule "LATEST/ComM"]
+	path = LATEST/ComM
+	url = git@github.com:NAAGRAAJ-HM/ComM.git
+[submodule "LATEST/Com"]
+	path = LATEST/Com
+	url = git@github.com:NAAGRAAJ-HM/Com.git
+[submodule "LATEST/SecOC"]
+	path = LATEST/SecOC
+	url = git@github.com:NAAGRAAJ-HM/SecOC.git
+[submodule "LATEST/Dcm"]
+	path = LATEST/Dcm
+	url = git@github.com:NAAGRAAJ-HM/Dcm.git
+[submodule "LATEST/PduR"]
+	path = LATEST/PduR
+	url = git@github.com:NAAGRAAJ-HM/PduR.git
+[submodule "LATEST/Nm"]
+	path = LATEST/Nm
+	url = git@github.com:NAAGRAAJ-HM/Nm.git
