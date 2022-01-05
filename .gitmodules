@@ -7,9 +7,6 @@
 [submodule "LATEST/Det"]
 	path = LATEST/Det
 	url = git@github.com:NAAGRAAJ-HM/Det.git
-[submodule "LATEST/EcuAb"]
-	path = LATEST/EcuAb
-	url = git@github.com:NAAGRAAJ-HM/EcuAb.git
 [submodule "LATEST/EcuM"]
 	path = LATEST/EcuM
 	url = git@github.com:NAAGRAAJ-HM/EcuM.git
