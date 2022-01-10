@@ -1,6 +1,9 @@
 add_library(
    AUTOSAR_Bsw
    ./BswM/LATEST/BswM.cpp
+   ./Com/LATEST/Com.cpp
+   ./ComM/LATEST/ComM.cpp
+   ./Csm/LATEST/Csm.cpp
    ./Dem/LATEST/Dem.cpp
    ./Det/LATEST/Det.cpp
    ./EcuM/LATEST/EcuM.cpp
@@ -14,7 +17,12 @@ add_library(
 )
 
 include_directories(
+   ../../common/LATEST
+   ../../common/LATEST/Compiler_Abstraction_GNU/LATEST
    ./BswM/LATEST
+   ./Com/LATEST
+   ./ComM/LATEST
+   ./Csm/LATEST
    ./Dem/LATEST
    ./Det/LATEST
    ./EcuM/LATEST
@@ -25,22 +33,22 @@ include_directories(
    ./Swc_EcuM/LATEST
    ./Swc_Os/LATEST
    ./WdgM/LATEST
-   ./EcuAb/LATEST/MemIf/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Adc/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Can/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Dio/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Eep/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Eth/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Fls/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Fr/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Gpt/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Icu/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Lin/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Mcu/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Ocu/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Port/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Pwm/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Spi/LATEST
-   ./EcuAb/LATEST/McAL/LATEST/Wdg/LATEST
+   ../../EcuAb/LATEST/MemIf/LATEST
+   ../../McAL/LATEST/Adc/LATEST
+   ../../McAL/LATEST/Can/LATEST
+   ../../McAL/LATEST/Dio/LATEST
+   ../../McAL/LATEST/Eep/LATEST
+   ../../McAL/LATEST/Eth/LATEST
+   ../../McAL/LATEST/Fls/LATEST
+   ../../McAL/LATEST/Fr/LATEST
+   ../../McAL/LATEST/Gpt/LATEST
+   ../../McAL/LATEST/Icu/LATEST
+   ../../McAL/LATEST/Lin/LATEST
+   ../../McAL/LATEST/Mcu/LATEST
+   ../../McAL/LATEST/Ocu/LATEST
+   ../../McAL/LATEST/Port/LATEST
+   ../../McAL/LATEST/Pwm/LATEST
+   ../../McAL/LATEST/Spi/LATEST
+   ../../McAL/LATEST/Wdg/LATEST
 )
 
