@@ -4,15 +4,23 @@ add_library(
    ./Com/LATEST/Com.cpp
    ./ComM/LATEST/ComM.cpp
    ./Csm/LATEST/Csm.cpp
+   ./Dcm/LATEST/Dcm.cpp
    ./Dem/LATEST/Dem.cpp
    ./Det/LATEST/Det.cpp
    ./EcuM/LATEST/EcuM.cpp
+   ./FiM/LATEST/FiM.cpp
+   ./Nm/LATEST/Nm.cpp
    ./NvM/LATEST/NvM.cpp
    ./Os/LATEST/Os.cpp
+   ./PduR/LATEST/PduR.cpp
    ./SchM/LATEST/SchM.cpp
+   ./SecOC/LATEST/SecOC.cpp
+   ./SokFm/LATEST/SokFm.cpp
    ./StartUp/LATEST/StartUp.cpp
+   ./StbM/LATEST/StbM.cpp
    ./Swc_EcuM/LATEST/Swc_EcuM.cpp
    ./Swc_Os/LATEST/Swc_Os.cpp
+   ./Vkms/LATEST/Vkms.cpp
    ./WdgM/LATEST/WdgM.cpp
 )
 
@@ -23,15 +31,23 @@ include_directories(
    ./Com/LATEST
    ./ComM/LATEST
    ./Csm/LATEST
+   ./Dcm/LATEST
    ./Dem/LATEST
    ./Det/LATEST
    ./EcuM/LATEST
+   ./FiM/LATEST
+   ./Nm/LATEST
    ./NvM/LATEST
    ./Os/LATEST
+   ./PduR/LATEST
    ./SchM/LATEST
+   ./SecOC/LATEST
+   ./SokFm/LATEST
    ./StartUp/LATEST
+   ./StbM/LATEST
    ./Swc_EcuM/LATEST
    ./Swc_Os/LATEST
+   ./Vkms/LATEST
    ./WdgM/LATEST
    ../../EcuAb/LATEST/MemIf/LATEST
    ../../McAL/LATEST/Adc/LATEST
