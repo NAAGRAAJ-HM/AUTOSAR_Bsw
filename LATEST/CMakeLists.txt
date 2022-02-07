@@ -28,26 +28,14 @@ include_directories(
    ../../common/LATEST
    ../../common/LATEST/Compiler_Abstraction_GNU/LATEST
    ./BswM/LATEST
-   ./Com/LATEST
-   ./ComM/LATEST
-   ./Csm/LATEST
-   ./Dcm/LATEST
    ./Dem/LATEST
    ./Det/LATEST
    ./EcuM/LATEST
-   ./FiM/LATEST
-   ./Nm/LATEST
    ./NvM/LATEST
    ./Os/LATEST
-   ./PduR/LATEST
    ./SchM/LATEST
-   ./SecOC/LATEST
-   ./SokFm/LATEST
-   ./StartUp/LATEST
-   ./StbM/LATEST
    ./Swc_EcuM/LATEST
    ./Swc_Os/LATEST
-   ./Vkms/LATEST
    ./WdgM/LATEST
    ../../EcuAb/LATEST/MemIf/LATEST
    ../../McAL/LATEST/Adc/LATEST
